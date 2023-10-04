@@ -1,0 +1,6 @@
+v0.2
+• Added Tweaks For Different RAM Sizes
+• Added .bat For Disabling ASLR And FTH
+
+v0.3
+• Replaced Memory "Tweaks.bat" With A Better "Memory Management Tweaks.reg" File
