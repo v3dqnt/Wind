@@ -2,13 +2,7 @@
 # Wind • The Simplest Optimizer For Windows 🌃
 
 ## Features :
-- Comprehensive Info On All The Tweaks
-- 100+ Windows Customizations
-- 200+ Windows Performance Tweaks
-- Power Plans
-- PC Cleaner
-- Corruption Checks
-- Aesthetic And Simple GUI
+Will Be Revealed With The Release Of GUI Version SOON!
 
 ## Installation :
 - Go To [Releases](http://github.com/v3dqnt/Wind/releases "releases")
