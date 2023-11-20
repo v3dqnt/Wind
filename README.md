@@ -2,7 +2,8 @@
 # Wind • The Simplest Optimizer For Windows 🌃
 
 ## Features :
-Will Be Revealed With The Release Of GUI Version SOON! <br>
+Will Be Revealed With The Release Of GUI Version SOON!
+
 Till Then Try [Wind CLI](https://github.com/v3dqnt/Wind/releases)
 
 ## Installation :
