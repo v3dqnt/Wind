@@ -1,17 +1,10 @@
 
 # Wind • The Simplest Optimizer For Windows 🌃
-<img src="https://github.com/v3dqnt/Wind/blob/main/WIND%20%E2%80%A2%20Your%20GOTO%20WINDOWS%20OPTIMIZER.png">
-## Features :
-Will Be Revealed With The Release Of GUI Version SOON!
+<img src="https://github.com/v3dqnt/Wind/blob/main/WIND%20%E2%80%A2%20Your%20GOTO%20WINDOWS%20OPTIMIZER.png"> 
 
-Till Then Try [Wind CLI](https://github.com/v3dqnt/Wind/releases)
-
-## Installation :
+## Downloads :
 - Go To [Releases](http://github.com/v3dqnt/Wind/releases "releases")
 - Download The Latest Version And Run The Installer
-
-## Development :
-- I Am A Solo Developer Developing This, So If You Could Check Out My YT Channel It Would Be Very Kind Of You.
 
 ### Sources :
 - Calypto's Latency Guide [🔗](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)
