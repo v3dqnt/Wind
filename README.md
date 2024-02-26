@@ -1,6 +1,6 @@
 
 # Wind • The Simplest Optimizer For Windows 🌃
-
+<img src="https://github.com/v3dqnt/Wind/blob/main/WIND%20%E2%80%A2%20Your%20GOTO%20WINDOWS%20OPTIMIZER.png">
 ## Features :
 Will Be Revealed With The Release Of GUI Version SOON!
 
