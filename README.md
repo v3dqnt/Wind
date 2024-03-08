@@ -7,10 +7,13 @@
 ### About The Project:
 <h4>Wind Is A Windows Terminal Utitlity, Focused On Giving You The Most Productive And Smoothest Experience On Windows 10</h4>
 
-###  Acknowledgements :
-- Alchemy Tweaks [🔗](https://www.youtube.com/@ALCHEMYTWEAKS)
-- Melody And Community [🔗](https://discord.com/invite/fzWpQgm)
-- Zusier's AIO [🔗](https://github.com/Zusier/Zusiers-optimization-Batch)
+### Features:
+- Windows Settings App Optimizations
+- Telemetry Disabler
+- KBM Latency And Accuracy Tweaks
+- Network Tweaks (Melody And Community)
+- Unwanted Services Disabler
+- NVIDIA Tweaks
 
 ### Contributing :
-## Made With ❤ By [v3dqnt](http://github.com/v3dqnt "v3dqnt")
+- Made With ❤ By [v3dqnt](http://github.com/v3dqnt "v3dqnt")
