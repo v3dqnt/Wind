@@ -1,6 +1,6 @@
 
 # Wind • The Simplest Optimizer For Windows 🌃
-<img src="https://github.com/v3dqnt/Wind/blob/main/icons8-wind-96.png" align=center> 
+<img src="https://github.com/v3dqnt/Wind/blob/main/icons8-wind-96.png" align="center"> 
 
 ## Downloads :
 - Go To [Releases](http://github.com/v3dqnt/Wind/releases "releases")
