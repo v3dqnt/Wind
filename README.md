@@ -16,7 +16,7 @@
 </details>
 
 ### About The Project:
-Wind Is A Windows Terminal Utitlity, Focused On Giving You The Most *Productive* And *Smoothest* Experience On Windows 10
+<h4>Wind Is A Windows Terminal Utitlity, Focused On Giving You The Most *Productive* And *Smoothest* Experience On Windows 10</h4>
 
 ###  Acknowledgements :
 - Alchemy Tweaks [🔗](https://www.youtube.com/@ALCHEMYTWEAKS)
