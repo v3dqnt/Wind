@@ -4,8 +4,8 @@
   <img src="https://github.com/v3dqnt/Wind/blob/main/icons8-wind-96.png" align="center"> 
 </div>
 
-<details>
-  <summary>Table of Contents</summary>
+<details> 
+  <summary>### Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
