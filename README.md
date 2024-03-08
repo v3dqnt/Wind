@@ -5,7 +5,7 @@
 </div>
 
 <details> 
-  ### Table Of Contents
+  <summary><h3>Table Of Contents</h3></summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
