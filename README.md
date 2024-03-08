@@ -5,7 +5,7 @@
 </div>
 
 ### About The Project:
-<h4>Wind Is A Windows Terminal Utitlity, Focused On Giving You The Most *_Productive_* And *Smoothest* Experience On Windows 10</h4>
+<h4>Wind Is A Windows Terminal Utitlity, Focused On Giving You The Most _*Productive*_ And *Smoothest* Experience On Windows 10</h4>
 
 ###  Acknowledgements :
 - Alchemy Tweaks [🔗](https://www.youtube.com/@ALCHEMYTWEAKS)
