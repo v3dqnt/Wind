@@ -4,19 +4,8 @@
   <img src="https://github.com/v3dqnt/Wind/blob/main/icons8-wind-96.png" align="center"> 
 </div>
 
-<details> 
-  <summary><h3>Table Of Contents</h3></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
 ### About The Project:
-<h4>Wind Is A Windows Terminal Utitlity, Focused On Giving You The Most *Productive* And *Smoothest* Experience On Windows 10</h4>
+<h4>Wind Is A Windows Terminal Utitlity, Focused On Giving You The Most *_Productive_* And *Smoothest* Experience On Windows 10</h4>
 
 ###  Acknowledgements :
 - Alchemy Tweaks [🔗](https://www.youtube.com/@ALCHEMYTWEAKS)
