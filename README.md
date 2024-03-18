@@ -1,5 +1,5 @@
 
-<h1 align="center">Wind • The Simplest Optimizer For Windows 🌃</h1>
+<h1 align="center">Wind • The Simplest Optimizer For Windows</h1>
 <div align="center">
   <img src="https://github.com/v3dqnt/Wind/blob/main/icons8-wind-96.png" align="center"> 
 </div>
