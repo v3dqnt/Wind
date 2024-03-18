@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
         // Check which button was clicked and redirect accordingly
         if (targetBtn === downloadBtn) {
-            window.location.href = "https://qiwi.gg/file/utG55944-Wind-Rework-0"; // Replace "download-link" with your actual download link
+            window.location.href = "https://hazei9lovescatsanddogs.on.drv.tw/Wind%20Download/"; // Replace "download-link" with your actual download link
         } else if (targetBtn === githubBtn) {
             window.location.href = "https://github.com/v3dqnt/Wind"; // Replace "github-link" with your actual GitHub link
         } else if (targetBtn === discordBtn) {
