@@ -5,7 +5,7 @@
 </div>
 
 ### About The Project:
-- *Wind Is A Windows Terminal Utitlity, Focused On Giving You The Most Productive And Smoothest Experience On Windows 10*
+- Wind Is A Windows Terminal Utitlity, Focused On Giving You The Most Productive And Smoothest Experience On Windows 10
 
 ### Features:
 - Performance Tweaks
