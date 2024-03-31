@@ -8,10 +8,11 @@
 
 ### Features:
 - Performance Tweaks
-- Disables Unnecessary Services
-- KBM Latency And Accuracy Tweaks
-- Windows Settings Optimizer
-- Cleanup Functions
+- GPU Optimizer
+- Windows Cleaner
+- System Customizer
+- Services Disabler
+- KBM Latency Reducer
 
 ### Contributing :
-- Made With ❤ By [v3dqnt/vm249](http://github.com/v3dqnt "v3dqnt")
+- Made With ❤ By [v3dqnt](http://github.com/v3dqnt "v3dqnt")
